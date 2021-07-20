@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Scott Partington
 
 # Is this the primary user of the site?
 superuser: true
