@@ -17,9 +17,9 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-interests:
-- Cognitive science
-- Philosophy of science 
+# interests:
+# - Cognitive science
+# - Philosophy of science 
 
 # Education to show in About widget
 education:
