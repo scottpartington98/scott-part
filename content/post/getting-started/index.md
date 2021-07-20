@@ -33,10 +33,10 @@ authors:
 
 
 tags:
-- Academic
+# - Academic
 
 
 categories:
-- Demo
+# - Demo
 
 ---
