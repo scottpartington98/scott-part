@@ -66,4 +66,4 @@ highlight_name: false
 
 I graduated from Cornell (Psychology and College Scholar) in 2020. In October 2021, I will be starting an MPhil in History and Philosophy of Science at Cambridge. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Partington_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
