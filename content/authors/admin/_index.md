@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I graduated from Cornell (Psychology and College Scholar) in 2020. Since then, I’ve conducted research in moral psychology and cognitive science. I will be starting an MPhil in History and Philosophy of Science at Cambridge in October 2021.  
+I graduated from Cornell (Psychology and College Scholar) in 2020. In October 2021, I will be starting an MPhil in History and Philosophy of Science at Cambridge. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
