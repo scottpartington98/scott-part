@@ -46,7 +46,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://escholarship.org/content/qt0jn8m2dd/qt0jn8m2dd.pdf'
-url_code: ""
+url_code: 'https://osf.io/zsf6g/?view_only=8457ca8dba7247d5abd8fb6d3376d5e8'
 url_dataset: ""
 url_poster: ""
 url_project: ""
