@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 42nd Annual Conference of the Cognitive Science Society*
-publication_short: In *CogSci 2020*
+publication_short: ""
 
 # abstract: 
 
