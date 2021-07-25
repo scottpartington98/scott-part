@@ -31,6 +31,7 @@ publication: In *Proceedings of the 42nd Annual Conference of the Cognitive Scie
 publication_short: ""
 
 # abstract: 
+'It’s a familiar point in anthropology that many norms are parochial, meaning they apply to people in certain groups (e.g., one’s ingroup) and not to others (e.g., one’s outgroup). One explanation for such parochialism is that people are just innately biased against outsiders. But it’s also possible that, given the evidence, people infer the parochiality of norms in statistically appropriate ways. This paper uses a Bayesian learning framework to investigate inferences of normative scope both experimentally and computationally. An experiment in which adult participants (n = 480) viewed sample violations of a novel rule among novel groups reveals that both sensitivity to statistical evidence and prior knowledge of relevant social categories are integral to computations of normative scope. In tandem with the experimental results, computational analysis supports the notion that degree of prior inclusivity bias (i.e., an expectation that a norm will be broad, rather than narrow, in scope) is another key factor. Together, these novel insights raise intriguing possibilities for integrating perspectives on norms research.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
