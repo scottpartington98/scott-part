@@ -24,7 +24,7 @@ bio:
 # Education to show in About widget
 education:
   courses:
-  - course: MPhil in History and Philosophy of Science 
+  - course: MPhil in History & Philosophy of Science 
     institution: University of Cambridge
     year: 2022
   - course: BA in Psychology and College Scholar 
