@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm currently an MPhil student in History & Philosophy of Science at the University of Cambridge. I graduated from Cornell (Psychology and College Scholar) in 2020.
+I'm currently doing an MPhil in History & Philosophy of Science at the University of Cambridge. I graduated from Cornell (Psychology and College Scholar) in 2020.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/Partington_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
