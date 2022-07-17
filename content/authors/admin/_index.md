@@ -65,6 +65,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm an incoming PhD student in Philosophy of Science at the University of Cambridge. My PhD research is supervised by Marta Halina and funded by the British Society for Philosophy of Science. Previously, I studied at Cambridge (MPhil, Philosophy of Science) and Cornell (BA, Psychology). I also conduct ongoing experimental research with collaborators at Cornell: Shaun Nichols, Alejandro Vesga, and David Pizarro. 
+I'm an incoming PhD student in Philosophy of Science at the University of Cambridge. My PhD research is supervised by [Marta Halina](https://www.martahalina.com) and funded by the British Society for Philosophy of Science. Previously, I studied at Cambridge (MPhil, Philosophy of Science) and Cornell (BA, Psychology). I also conduct ongoing experimental research with collaborators at Cornell: Shaun Nichols, Alejandro Vesga, and David Pizarro. 
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/Partington_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
