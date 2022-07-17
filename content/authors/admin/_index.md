@@ -18,8 +18,9 @@ bio:
 
 # Interests to show in About widget
 # interests:
-# - Cognitive science
-# - Philosophy of science 
+- Psychology
+- Cognitive science
+- Philosophy of science 
 
 # Education to show in About widget
 education:
