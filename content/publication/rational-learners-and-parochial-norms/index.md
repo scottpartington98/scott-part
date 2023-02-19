@@ -6,7 +6,7 @@ authors:
   - admin
   - Shaun Nichols
   - Tamar Kushnir
-publication: in *Cognition*
+publication: In *Cognition*
 draft: false
 featured: true
 image:
