@@ -8,7 +8,7 @@ authors:
   - Shaun Nichols
 publication: In *Cognition*
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
