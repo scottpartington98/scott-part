@@ -2,10 +2,7 @@
 role: null
 avatar_filename: screen-shot-2023-06-19-at-6.48.43-pm.png
 bio: null
-interests:
-  - Moral psychology
-  - Cognitive science
-  - Philosophy of science
+interests:[]
 social:
   - icon: twitter
     icon_pack: fab
@@ -14,17 +11,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=jAq0UGIAAAAJ&hl=en
 organizations: []
-education:
-  courses:
-    - course: PhD in History & Philosophy of Science
-      institution: University of Cambridge, Queens' College
-      year: ""
-    - course: MPhil in History & Philosophy of Science
-      institution: University of Cambridge, Fitzwilliam College
-      year: 2022
-    - course: BA in Psychology and College Scholar
-      institution: Cornell University
-      year: 2020
+education:[]
 superuser: true
 highlight_name: false
 title: Scott Partington
