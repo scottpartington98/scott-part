@@ -1,6 +1,6 @@
 ---
-title: Scott Partington
 role: null
+avatar_filename: screen-shot-2023-06-19-at-6.48.43-pm.png
 bio: null
 interests:
   - Moral psychology
@@ -25,9 +25,10 @@ education:
     - course: BA in Psychology and College Scholar
       institution: Cornell University
       year: 2020
-email: ""
 superuser: true
 highlight_name: false
+title: Scott Partington
+email: ""
 ---
 
 I'm a PhD student in Philosophy of Science at the [University of Cambridge](https://www.hps.cam.ac.uk). My PhD research is supervised by [Marta Halina](https://www.martahalina.com) and funded by the [British Society for Philosophy of Science](https://www.thebsps.org). Previously, I studied at Cambridge (MPhil, Philosophy of Science) and Cornell (BA, Psychology). I also conduct research in experimental philosophy with collaborators at Cornell: [Shaun Nichols](https://sites.google.com/view/shaunbnichols/home) and [Alejandro Vesga](https://alejandrovesga.co).
