@@ -18,7 +18,7 @@ title: Scott Partington
 email: ""
 ---
 
-I'm a PhD student in Philosophy of Science at the [University of Cambridge](https://www.hps.cam.ac.uk). My PhD research is supervised by [Marta Halina](https://www.martahalina.com) and funded by the [British Society for Philosophy of Science](https://www.thebsps.org). Previously, I studied at Cambridge (MPhil, Philosophy of Science) and Cornell (BA, Psychology).
+I'm a PhD student in Philosophy of Science at the [University of Cambridge](https://www.hps.cam.ac.uk). My PhD research is supervised by [Marta Halina](https://www.martahalina.com) and funded by the [British Society for Philosophy of Science](https://www.thebsps.org).
 
 My email is sp933@cam.ac.uk. Feel free to get in touch! 
 
