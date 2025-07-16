@@ -1,5 +1,5 @@
 ---
-title: "Norms Emerge Through Iterated Learning"
+title: "Norms emerge through iterated learning"
 authors:
 - Scott Partington
 - Rachana Kamtekar
