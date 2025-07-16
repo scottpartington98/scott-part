@@ -7,7 +7,7 @@ authors:
 date: 2025-07-15
 doi: "10.1073/pnas.XXXXXXXXXX"
 publication: "Proceedings of the National Academy of Sciences"
-publication_short: "PNAS"
+publication_short:
 abstract: 
 featured: true
 url_pdf: "https://example.com/paper.pdf"
