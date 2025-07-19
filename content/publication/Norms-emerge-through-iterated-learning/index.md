@@ -5,7 +5,7 @@ authors:
 - Rachana Kamtekar
 - Shaun Nichols
 date: 2025-07-15
-osf: "https://osf.io/cznme/files/osfstorage?view_only=da63448142ab4e05ba86504e2b550c8d"
+url_osf: "https://osf.io/cznme/files/osfstorage?view_only=da63448142ab4e05ba86504e2b550c8d"
 publication: "In *Proceedings of the National Academy of Sciences*"
 publication_short:
 abstract: 
