@@ -1,5 +1,5 @@
 ---
-title: "No brute facts: The Principle of Sufficient Reason in ordinary thought"
+title: "No brute facts"
 publication_types:
   - "2"
 authors:
