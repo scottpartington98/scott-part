@@ -1,5 +1,5 @@
 ---
-title: "The evaluative niche hypothesis"
+title: "The Evaluative Niche Hypothesis"
 authors:
 - admin
 date: "2026-10-25"
