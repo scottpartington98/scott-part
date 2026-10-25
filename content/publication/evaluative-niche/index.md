@@ -1,8 +1,9 @@
 ---
 title: "The evaluative niche hypothesis"
 authors:
-- Scott Partington
-date: forthcoming
+- admin
+date: "2026-10-25"
+forthcoming: true
 url_osf: ""
 publication: "In *Philosophy of Science*"
 publication_short:
